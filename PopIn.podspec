@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "PopIn"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "Objective-C control that displays a dismissible UIVIew inside of a pop up."
   s.homepage         = "https://github.com/jayceecam/PopIn"
   s.license          = 'MIT'
